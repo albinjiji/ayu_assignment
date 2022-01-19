@@ -1,5 +1,5 @@
 body {
-  background: #141414;
+  background: black;
   color: #ffffff;
 }
 
@@ -31,5 +31,15 @@ body {
   bottom: 0;
   font-size: 20px;
   padding: 20px;
+  text-align: center;
+}
+
+.movie-heading {
+  align-items: center;
+  text-align: center;
+}
+
+.sub-head {
+  align-items: center;
   text-align: center;
 }
